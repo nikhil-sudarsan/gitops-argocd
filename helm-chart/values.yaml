@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: mdhack016/myapache
+  repository: mdhack/myapache
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
